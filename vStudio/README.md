@@ -7,68 +7,68 @@
 </br></br>
 <strong>项目图展示：</strong><br/>
 <strong>1、登录</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/denglu.jpg)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/denglu.jpg)</br></br>
             <strong>2、connect 连接</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/connect%20%E8%BF%9E%E6%8E%A5.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/connect%20%E8%BF%9E%E6%8E%A5.png)</br></br>
             <strong>debug开启</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/debug开启.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/debug开启.png)</br></br>
             <strong>工作空间</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/workspace.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/workspace.png)</br></br>
             <strong>任务列表</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/任务列表.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/任务列表.png)</br></br>
             <strong>企业管理</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/企业管理.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/企业管理.png)</br></br>
             <strong>删除工作空间</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/删除工作空间.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/删除工作空间.png)</br></br>
             <strong>填备注</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/填备注.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/填备注.png)</br></br>
             <strong>工作空间重命名</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/工作空间重命名.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/工作空间重命名.png)</br></br>
             <strong>已发布</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/已发布.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/已发布.png)</br></br>
             <strong>拖入data</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/拖入data.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/拖入data.png)</br></br>
             <strong>搜索</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/搜索.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/搜索.png)</br></br>
             <strong>数据内容预览</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/数据内容预览.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/数据内容预览.png)</br></br>
             <strong>新建工作空间.png</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/新建工作空间.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/新建工作空间.png)</br></br>
              <strong>新建工作空间错误</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/新建工作空间错误.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/新建工作空间错误.png)</br></br>
             <strong>新建工程.png</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/新建工程.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/新建工程.png)</br></br>
             <strong>新建工程描述</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/新建工程描述.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/新建工程描述.png)</br></br>
             <strong>新建算法列表</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/新建算法列表.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/新建算法列表.png)</br></br>
             <strong>新算法操作页</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/新算法操作页.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/新算法操作页.png)</br></br>
             <strong>新输出算子</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/新输出算子.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/新输出算子.png)</br></br>
             <strong>消息通道</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/消息通道.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/消息通道.png)</br></br>
             <strong>监控板</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/监控板.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/监控板.png)</br></br>
             <strong>空白页无数据</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/空白页无数据.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/空白页无数据.png)</br></br>
             <strong>算法操作页</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/算法操作页.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/算法操作页.png)</br></br>
             <strong>算法界面</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/算法界面.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/算法界面.png)</br></br>
             <strong>菜单展开</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/菜单展开.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/菜单展开.png)</br></br>
              <strong>菜单收起</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/菜单收起.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/菜单收起.png)</br></br>
             <strong>运行空状态</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/运行空状态.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/运行空状态.png)</br></br>
             <strong>连接配置</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/连接配置.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/连接配置.png)</br></br>
             <strong>选文件</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/选文件.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/选文件.png)</br></br>
             <strong>部署</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/部署.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/部署.png)</br></br>
             <strong>部署任务</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/部署任务.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/部署任务.png)</br></br>
             <strong>重命名</strong></br></br>
-            ![image](https://github.com/xiaola66/vStudio/blob/master/img/重命名.png)</br></br>
+            ![image](https://github.com/Sestid/workingProject/blob/main/vStudio/img/重命名.png)</br></br>

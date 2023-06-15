@@ -6,7 +6,7 @@
 		3、车辆管理、OBU、MEC三个页面的删除和注册弹框</br>
 		4、（接口对接我不负责-----hahaha----）</br>
 		<strong>项目介绍：</strong></br></br>
-		TSP车辆监控平台：</br></br>![image](https://github.com/xiaola66/TSP-/blob/master/img/total.png)</br></br>		
+		TSP车辆监控平台：</br></br>![image](https://github.com/Sestid/workingProject/blob/main/TSP-/img//total.png)</br></br>		
 		前端展示界面通过mqtt的协议方式与后端来进行数据交换</br>
 		前端给回相关的控制信息， 我们TSP平台能够反馈给MEC，然MEC来实施控制</br>
 		利用Antd Desgin Pro 技术栈完成的所有页面</br>
@@ -30,9 +30,9 @@
 		服务协议为HTTP REST。服务支持参数包括：</br>
 vin： 车vin号（必须提供）</br>
 如果vin未注册，则报错。</br></br>
-			![image](https://github.com/xiaola66/TSP-/blob/master/img/vehicle.png)</br></br>
-			![image](https://github.com/xiaola66/TSP-/blob/master/img/vlogin.png)</br></br>
-			![image](https://github.com/xiaola66/TSP-/blob/master/img/vdelenter.png)</br></br></br>
+			![image](https://github.com/Sestid/workingProject/blob/main/TSP-/img/vehicle.png)</br></br>
+			![image](https://github.com/Sestid/workingProject/blob/main/TSP-/img/vlogin.png)</br></br>
+			![image](https://github.com/Sestid/workingProject/blob/main/TSP-/img/vdelenter.png)</br></br></br>
 		
 		<strong>二、OBU管理：</strong>(包括登入，注册，删除)</br></br>
 		<strong>1、OBU登入:</strong></br>
@@ -50,9 +50,9 @@
 		服务协议为HTTP REST。服务支持参数包括</br>
 obu_id：OBU ID（必须提供）</br>
 如果obu_id未注册，则报错。</br></br>
-			![image](https://github.com/xiaola66/TSP-/blob/master/img/obu.png)</br></br>
-			![image](https://github.com/xiaola66/TSP-/blob/master/img/ologin.png)</br></br>
-			![image](https://github.com/xiaola66/TSP-/blob/master/img/odelenter.png)</br></br></br>
+			![image](https://github.com/Sestid/workingProject/blob/main/TSP-/img/obu.png)</br></br>
+			![image](https://github.com/Sestid/workingProject/blob/main/TSP-/img/ologin.png)</br></br>
+			![image](https://github.com/Sestid/workingProject/blob/main/TSP-/img/odelenter.png)</br></br></br>
 			
 			<strong>三、MEC服务管理：</strong>(包括登入，注册，删除)</br></br>
 		<strong>1、MEC登入:</strong></br>
@@ -70,6 +70,6 @@
 		服务协议为HTTP REST。服务支持参数包括：</br>
 mec_id：MEC ID（必须提供）</br>
 如果mec_id未注册，则报错。</br></br>
-			![image](https://github.com/xiaola66/TSP-/blob/master/img/mec.png)</br></br>
-			![image](https://github.com/xiaola66/TSP-/blob/master/img/mlogin.png)</br></br>
-			![image](https://github.com/xiaola66/TSP-/blob/master/img/mdelenter.png)</br></br></br>
+			![image](https://github.com/Sestid/workingProject/blob/main/TSP-/img/mec.png)</br></br>
+			![image](https://github.com/Sestid/workingProject/blob/main/TSP-/img/mlogin.png)</br></br>
+			![image](https://github.com/Sestid/workingProject/blob/main/TSP-/img/mdelenter.png)</br></br></br>
