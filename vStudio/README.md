@@ -1,0 +1,74 @@
+# vStudio
+<strong>项目描述：</strong><br/>
+利用react，TypeScript，Material-UI等前端技术开发的。
+<br/>
+ 基于行业内成熟的大数据分布式架构批量处理海量车辆总线数据，能够分布式
+接入处理海量异构的总线工程数据。能满足整车开发测试过程的算法建模与调试需求，支持从道路试验的高精度数据到生产环节的TBOX数据，包括以下五个大数据析建模步骤：数据接入解析、数据预处理、工况场景提取、统计分析可视化、机器学习训练预测。支持用户向车内域控制器实时部署其建立的算法而且算法可动态加载与运行，实现云端调试车端即可部署的高效率算法迭代流程，从而大幅缩短传统车内算法调试的漫长周期，提升智能汽车的功能迭代进化效率。支持车内边缘计算与车云流计算协同的车云计算模式。域控制器在车内接入总线信号进行边缘计算，将高频信号处理成特征数据，并上传云端。云端依据特征数据进行持续学习与流计算，解决量产上市车辆在实时处理、确定性时延、特征感知、安全隐私计算等复杂场景下的算法分解，算力分布和带宽分取等智能计算需求。支持用户自定制算法模块开发，支持用户算法资产与软件自带算法一起组合使用。
+</br></br>
+<strong>项目图展示：</strong><br/>
+<strong>1、登录</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/denglu.jpg)</br></br>
+            <strong>2、connect 连接</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/connect%20%E8%BF%9E%E6%8E%A5.png)</br></br>
+            <strong>debug开启</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/debug开启.png)</br></br>
+            <strong>工作空间</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/workspace.png)</br></br>
+            <strong>任务列表</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/任务列表.png)</br></br>
+            <strong>企业管理</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/企业管理.png)</br></br>
+            <strong>删除工作空间</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/删除工作空间.png)</br></br>
+            <strong>填备注</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/填备注.png)</br></br>
+            <strong>工作空间重命名</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/工作空间重命名.png)</br></br>
+            <strong>已发布</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/已发布.png)</br></br>
+            <strong>拖入data</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/拖入data.png)</br></br>
+            <strong>搜索</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/搜索.png)</br></br>
+            <strong>数据内容预览</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/数据内容预览.png)</br></br>
+            <strong>新建工作空间.png</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/新建工作空间.png)</br></br>
+             <strong>新建工作空间错误</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/新建工作空间错误.png)</br></br>
+            <strong>新建工程.png</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/新建工程.png)</br></br>
+            <strong>新建工程描述</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/新建工程描述.png)</br></br>
+            <strong>新建算法列表</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/新建算法列表.png)</br></br>
+            <strong>新算法操作页</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/新算法操作页.png)</br></br>
+            <strong>新输出算子</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/新输出算子.png)</br></br>
+            <strong>消息通道</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/消息通道.png)</br></br>
+            <strong>监控板</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/监控板.png)</br></br>
+            <strong>空白页无数据</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/空白页无数据.png)</br></br>
+            <strong>算法操作页</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/算法操作页.png)</br></br>
+            <strong>算法界面</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/算法界面.png)</br></br>
+            <strong>菜单展开</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/菜单展开.png)</br></br>
+             <strong>菜单收起</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/菜单收起.png)</br></br>
+            <strong>运行空状态</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/运行空状态.png)</br></br>
+            <strong>连接配置</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/连接配置.png)</br></br>
+            <strong>选文件</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/选文件.png)</br></br>
+            <strong>部署</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/部署.png)</br></br>
+            <strong>部署任务</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/部署任务.png)</br></br>
+            <strong>重命名</strong></br></br>
+            ![image](https://github.com/xiaola66/vStudio/blob/master/img/重命名.png)</br></br>
